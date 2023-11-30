@@ -1,0 +1,31 @@
+.footer {
+  height: 229px;
+  padding: 60px 0 30px 0;
+  background: #121212;
+}
+.footer__box {
+  margin: 0 auto;
+  width: 555px;
+}
+.footer__title {
+  margin-bottom: 87px;
+  display: flex;
+}
+.footer__link {
+  text-decoration: none;
+  margin-left: 52px;
+  font-size: 19px;
+  line-height: normal;
+  letter-spacing: -1.54px;
+  text-transform: uppercase;
+}
+.footer__link:hover {
+  opacity: 0.5;
+}
+.footer__text {
+  text-align: center;
+  font-size: 20px;
+  line-height: normal;
+  letter-spacing: -0.6px;
+  opacity: 0.5;
+}

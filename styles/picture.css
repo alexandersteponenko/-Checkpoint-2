@@ -1,0 +1,20 @@
+.picture {
+  position: relative;
+  height: 715px;
+  background-image: url(/resources/bed.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.picture__container {
+  position: absolute;
+  width: 442px;
+  right: 832px;
+  top: 572px;
+}
+.picture__text {
+  margin-bottom: 0;
+  font-size: 30px;
+  line-height: normal;
+  letter-spacing: -0.9px;
+}
